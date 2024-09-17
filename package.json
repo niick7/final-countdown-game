@@ -2,7 +2,7 @@
   "name": "refs",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://niick7.github.io/final-countdown-game",
+  "homepage": "https://niick7.github.io/FinalCountdownGame",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
